@@ -1,4 +1,4 @@
-from directory_structure.directory_printer import DirectoryPrinter
+from pystruct_analyzer import DirectoryPrinter
 
 
 def main():

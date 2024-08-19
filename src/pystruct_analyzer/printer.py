@@ -1,5 +1,5 @@
 from typing import Set
-from .directory_structure import DirectoryStructure
+from .structure import DirectoryStructure
 
 
 class DirectoryPrinter:
