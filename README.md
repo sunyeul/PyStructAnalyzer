@@ -25,7 +25,7 @@ With this tool, developers can adapt to new projects more quickly and gain a bet
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sunyeul/PyStructAnalyzer.git
    cd pystruct-analyzer
    ```
 
